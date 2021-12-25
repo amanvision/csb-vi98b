@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amanvision.github.io/csb-vi98b/static/css/main.250f9ae7.chunk.css",
+    "main.js": "https://amanvision.github.io/csb-vi98b/static/js/main.e6b4436b.chunk.js",
+    "main.js.map": "https://amanvision.github.io/csb-vi98b/static/js/main.e6b4436b.chunk.js.map",
+    "runtime-main.js": "https://amanvision.github.io/csb-vi98b/static/js/runtime-main.e4281d6f.js",
+    "runtime-main.js.map": "https://amanvision.github.io/csb-vi98b/static/js/runtime-main.e4281d6f.js.map",
+    "static/js/2.8a48f39c.chunk.js": "https://amanvision.github.io/csb-vi98b/static/js/2.8a48f39c.chunk.js",
+    "static/js/2.8a48f39c.chunk.js.map": "https://amanvision.github.io/csb-vi98b/static/js/2.8a48f39c.chunk.js.map",
+    "index.html": "https://amanvision.github.io/csb-vi98b/index.html",
+    "static/css/main.250f9ae7.chunk.css.map": "https://amanvision.github.io/csb-vi98b/static/css/main.250f9ae7.chunk.css.map",
+    "static/js/2.8a48f39c.chunk.js.LICENSE.txt": "https://amanvision.github.io/csb-vi98b/static/js/2.8a48f39c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4281d6f.js",
+    "static/js/2.8a48f39c.chunk.js",
+    "static/css/main.250f9ae7.chunk.css",
+    "static/js/main.e6b4436b.chunk.js"
+  ]
+}
